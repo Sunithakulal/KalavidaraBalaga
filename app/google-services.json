@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15654693460",
+    "project_id": "kalavidarabalaga-e73f2",
+    "storage_bucket": "kalavidarabalaga-e73f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15654693460:android:63c523718e1cb36b6f1bc1",
+        "android_client_info": {
+          "package_name": "com.example.kalavidarabalaga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoTcnRFHl71P9Y6085qqtCK0f9SWxDftk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
