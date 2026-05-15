@@ -111,6 +111,4 @@ app/
 
 ## Conclusion
 Kalavidara Balaga provides a digital platform for artists to showcase their talents 
-and helps users easily connect with artists for cultural programs and events.<<<img width="1920" height="1080" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/ce8b32d4-bd0a-4373-b641-aae817052480" />
-img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/7ba590d9-41b6-4332-996e-aad8a115a47e" />
-img width="1920" height="1080" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/fccc4b07-e31d-4d2e-ae7c-ce29499ea9b2" />
+and helps users easily connect with artists for cultural programs and events.
