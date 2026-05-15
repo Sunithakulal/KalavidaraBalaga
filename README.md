@@ -79,7 +79,6 @@ app/
 ---
 
 ## Screenshots
-## Screenshots
 
 ### Home Page
 <img width="1920" height="1080" alt="Home Page" src="https://github.com/user-attachments/assets/abf91af8-d4fc-45ad-a954-e8dc147d8ebc" />
@@ -97,16 +96,7 @@ app/
 <img width="1920" height="1080" alt="Signup" src="https://github.com/user-attachments/assets/07deed0c-0f37-4c38-a8b6-ab110f1788e6" />
 
 ### Search Feature
-<img width="1920" height="1080" alt="Search" src="https://github.com/user-attachments/assets/ab5a34cd-5c41-4b28-8353-8938c31ea868" />
-
-### Artist Details
-<img width="1920" height="1080" alt="Artist Details" src="https://github.com/user-attachments/assets/ce8b32d4-bd0a-4373-b641-aae817052480" />
-
-### Registration Screen
 <img width="1920" height="1080" alt="Registration" src="https://github.com/user-attachments/assets/7ba590d9-41b6-4332-996e-aad8a115a47e" />
-
-### Authentication Screen
-<img width="1920" height="1080" alt="Authentication" src="https://github.com/user-attachments/assets/fccc4b07-e31d-4d2e-ae7c-ce29499ea9b2" />
 
 ---
 
